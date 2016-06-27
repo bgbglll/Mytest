@@ -12,5 +12,7 @@ public class Test {
         print(1,"Hello, World!");
         print(12,"Hello, World!");
         print(12,"Hello, World!");
+        print(12,"Hello, World!");
+        print(12,"Hello, World2!");
     }
 }
